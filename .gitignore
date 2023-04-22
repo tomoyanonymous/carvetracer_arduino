@@ -1,0 +1,5 @@
+*.zip
+.DS_Store
+fp-info-cache
+fp-lib-table
+carvetracer_arduino-backups
