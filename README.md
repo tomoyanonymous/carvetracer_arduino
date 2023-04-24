@@ -22,12 +22,13 @@ A shield circuit board for Arduino Uno to analyze the characteristics of a trans
 - 3 Pin Deep Socket for Transistor x 2
 - 2.54mm Pin Header for Arduino Socket
 
-## Required Application
+## Required Softwares
 
 - Arduino IDE
 - Processing
+- KiCad
 
-## How To Use
+## How To Use the Shield
 
 1. Connect Arduino to PC
 1. Open Examples->Firmata->StandardFirmata
